@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://parkquest-national-parks-astra.pages.dev/sitemap.xml
